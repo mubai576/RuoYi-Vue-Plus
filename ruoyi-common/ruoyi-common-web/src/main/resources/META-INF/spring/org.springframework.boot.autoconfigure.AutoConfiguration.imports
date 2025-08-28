@@ -1,5 +1,5 @@
-org.dromara.common.web.config.CaptchaConfig
-org.dromara.common.web.config.FilterConfig
-org.dromara.common.web.config.I18nConfig
-org.dromara.common.web.config.ResourcesConfig
-org.dromara.common.web.config.UndertowConfig
+io.github.mubai576.common.web.config.CaptchaConfig
+io.github.mubai576.common.web.config.FilterConfig
+io.github.mubai576.common.web.config.I18nConfig
+io.github.mubai576.common.web.config.ResourcesConfig
+io.github.mubai576.common.web.config.UndertowConfig

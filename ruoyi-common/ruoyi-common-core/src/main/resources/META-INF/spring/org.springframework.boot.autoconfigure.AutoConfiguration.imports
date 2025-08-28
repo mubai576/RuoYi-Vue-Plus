@@ -1,5 +1,5 @@
-org.dromara.common.core.config.ApplicationConfig
-org.dromara.common.core.config.AsyncConfig
-org.dromara.common.core.config.ThreadPoolConfig
-org.dromara.common.core.config.ValidatorConfig
-org.dromara.common.core.utils.SpringUtils
+io.github.mubai576.common.core.config.ApplicationConfig
+io.github.mubai576.common.core.config.AsyncConfig
+io.github.mubai576.common.core.config.ThreadPoolConfig
+io.github.mubai576.common.core.config.ValidatorConfig
+io.github.mubai576.common.core.utils.SpringUtils

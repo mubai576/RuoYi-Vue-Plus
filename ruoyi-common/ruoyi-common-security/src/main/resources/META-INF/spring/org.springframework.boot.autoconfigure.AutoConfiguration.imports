@@ -1,2 +1,2 @@
-org.dromara.common.security.handler.AllUrlHandler
-org.dromara.common.security.config.SecurityConfig
+io.github.mubai576.common.security.handler.AllUrlHandler
+io.github.mubai576.common.security.config.SecurityConfig
