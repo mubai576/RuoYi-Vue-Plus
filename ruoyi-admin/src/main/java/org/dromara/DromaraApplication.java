@@ -9,7 +9,6 @@ import org.springframework.boot.context.metrics.buffering.BufferingApplicationSt
  *
  * @author Lion Li
  */
-
 @SpringBootApplication
 public class DromaraApplication {
 

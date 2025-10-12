@@ -34,31 +34,31 @@ public class BaseEntity implements Serializable {
      * 创建部门
      */
     @TableField(fill = FieldFill.INSERT)
-    private Long createDept;
+    protected Long createDept;
 
     /**
      * 创建者
      */
     @TableField(fill = FieldFill.INSERT)
-    private Long createBy;
+    protected Long createBy;
 
     /**
      * 创建时间
      */
     @TableField(fill = FieldFill.INSERT)
-    private Date createTime;
+    protected Date createTime;
 
     /**
      * 更新者
      */
     @TableField(fill = FieldFill.INSERT_UPDATE)
-    private Long updateBy;
+    protected Long updateBy;
 
     /**
      * 更新时间
      */
     @TableField(fill = FieldFill.INSERT_UPDATE)
-    private Date updateTime;
+    protected Date updateTime;
 
     /**
      * 请求参数
